@@ -1,0 +1,15 @@
+Some questions which came during EDA of this dataset.
+
+Q1. what is G and C hospital type?
+ans. 
+G and C hospitals are a type of hospital that provides general medical and surgical care. 
+
+Q2. What is differnce between preauthorization amount and claim amount?
+Preauthorization is the process of getting approval from an insurance company for a medical service before it is rendered. This is typically required for certain types of services, such as elective surgery or certain types of prescription drugs. Preauthorization can help to ensure that the service is covered by insurance and that the patient will not be responsible for any out-of-pocket costs.
+
+Claim amount is the amount of money that an insurance company will pay for a medical service. The claim amount is based on the negotiated rate between the insurance company and the provider. The negotiated rate is typically lower than the actual cost of the service. The patient may be responsible for a portion of the claim amount, depending on their deductible and coinsurance.
+
+Q what is SRC registration?
+
+
+SRC registration is a process that insurance companies use to verify the identity and credentials of insurance professionals. This process helps to ensure that only qualified professionals are providing insurance advice and services to consumers.
