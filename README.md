@@ -1,4 +1,4 @@
-# EDA AP health data
+# EDA AP health data (dataset: https://www.kaggle.com/datasets/phiitm/andhra-pradesh-health-data)
 In this project I have done Exploratory Data Analysis using SQL 
 
 Steps Included:
